@@ -1,64 +1,53 @@
 ---
-title: 'RoboChef - AI Powered Cooking Guide'
-description: RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience.
-publishDate: 'Oct 12 2023'
-isFeatured: true
+title: 'La Lumière du Silence'
+description: A psychological thriller following a sound designer who uncovers a sinister truth hidden within an anonymous recording.
+publishDate: 'Nov 08 2023'
 seo:
   image:
-    src: '/project-3.jpg'
+    src: '/lumiere-silence.jpg'
+    alt: Project preview
 ---
 
-![Project preview](/project-3.jpg)
+![Project preview](/lumiere-silence.jpg)
 
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-RoboChef Recipe Assistant is a groundbreaking mobile application that leverages artificial intelligence to redefine the cooking experience. By combining machine learning with culinary expertise, RoboChef empowers users to explore a world of flavors, improve their cooking skills, and enjoy personalized recipe recommendations.
+"La Lumière du Silence" is an intense thriller that keeps audiences on the edge of their seats. When sound designer Victor discovers a cryptic recording, he embarks on a journey that unveils more than he ever wanted to know.
 
 ## Objectives
 
-1. Develop a user-friendly mobile app that utilizes AI to provide personalized recipe suggestions based on user preferences, dietary restrictions, and available ingredients.
-2. Create an interactive cooking guide that assists users with step-by-step instructions, cooking tips, and real-time assistance.
-3. Implement a smart learning system that refines recommendations over time, adapting to users' taste preferences and dietary changes.
+1. Deliver a gripping narrative with a strong auditory focus.
+2. Experiment with sound to heighten suspense and tension.
+3. Explore themes of truth, obsession, and isolation.
 
 ## Features
 
-1. **AI-Powered Recipe Recommendations:**
+1. **Auditory Immersion:**
 
-- RoboChef analyzes users' taste preferences, dietary restrictions, and ingredient availability to suggest personalized recipes.
-- Machine learning algorithms continuously learn from user interactions, refining recommendations for an increasingly tailored experience.
+- 360-degree binaural soundscapes pull audiences into Victor's world.
+- Each scene builds tension through subtle sound design.
 
-2. **Ingredient Scanner and Inventory Management:**
+2. **Minimalist Aesthetic:**
 
-- Users can scan their pantry and refrigerator using the app's built-in ingredient scanner.
-- RoboChef provides recipe suggestions based on available ingredients and helps users manage their inventory by suggesting recipes that utilize soon-to-expire items.
+- Monochromatic color grading mirrors Victor's unraveling psyche.
+- Sparse yet striking production design enhances the film's eerie atmosphere.
 
-3. **Step-by-Step Cooking Guide:**
+3. **Mystery Unfolding:**
 
-- Each recipe includes a detailed step-by-step cooking guide with interactive multimedia elements.
-- Users can watch video tutorials, view images, and receive real-time tips from RoboChef as they progress through each cooking stage.
-
-4. **Nutritional Insights and Meal Planning:**
-
-- RoboChef provides nutritional information for each recipe, helping users make informed decisions about their meals.
-- The app offers meal planning features, allowing users to create weekly menus based on dietary goals and preferences.
-
-5. **Voice-Activated Assistance:**
-
-- Users can interact with RoboChef using voice commands for a hands-free cooking experience.
-- The AI assistant responds to queries, provides cooking tips, and adapts recipes based on user preferences.
+- Non-linear storytelling keeps audiences guessing until the final twist.
+- Carefully timed clues reward attentive viewers.
 
 ## Technology Stack
 
-- Frontend: Flutter for a seamless cross-platform mobile app experience.
-- Backend: Django for handling server-side logic and API integration.
-- Database: PostgreSQL for efficient data storage and retrieval.
-- AI Integration: TensorFlow for machine learning models powering recipe recommendations.
-
-> Ethan Donovan possesses a rare blend of technical expertise and creative flair. They skillfully transformed our vague ideas into a visually stunning and highly functional website. The end result exceeded our expectations, and we continue to receive compliments on the design and user experience.
+- Audio: Dolby Atmos for immersive surround sound.
+- Cinematography: Canon C300 with anamorphic lenses.
+- Post-Production: Final Cut Pro and Pro Tools.
 
 ## Outcome
 
-RoboChef Recipe Assistant has revolutionized the way users approach cooking, making it an enjoyable and educational experience. The AI-powered features not only simplify the cooking process but also contribute to users' culinary growth, creating a personalized and evolving cooking journey.
+"La Lumière du Silence" achieved cult status among thriller enthusiasts and was featured in several international film festivals.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Client Testimonial**
+
+> "An auditory masterpiece. The sound design is unlike anything I've experienced in cinema before." – Festival Attendee

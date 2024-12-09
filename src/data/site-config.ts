@@ -38,20 +38,20 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Jonathan Vacaresse',
+    subtitle: 'Réalisateur - Artiste visuel',
+    description: 'Portfolio et projets de Jonathan Vacaresse, réalisateur et artiste diplômé de l’ENSAPC, étudiant à La Ciné Fabrique.',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '/jonathan-portfolio-preview.jpg',
+        alt: 'Jonathan Vacaresse - Réalisateur et artiste visuel'
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Accueil',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Projets',
             href: '/projects'
         },
         {
@@ -59,13 +59,13 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Contact',
+            href: '/contact'
         }
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'À propos',
             href: '/about'
         },
         {
@@ -73,49 +73,41 @@ const siteConfig: SiteConfig = {
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Mentions légales',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
             text: 'Instagram',
-            href: 'https://instagram.com/'
+            href: 'https://instagram.com/jonathan_vcrs'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/jonathan-vacaresse'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Bienvenue sur mon Portfolio',
+        text: "Je suis **Jonathan Vacaresse**, réalisateur et artiste visuel. Actuellement étudiant à La Ciné Fabrique, je suis diplômé de l'ENSAPC (Beaux-Arts de Paris-Cergy). Mon univers artistique est **coloré, halluciné et somnambule**. Découvrez mes projets, notamment mon premier film, actuellement en cours de montage.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/hero-jo.jpg',
+            alt: 'Jonathan Vacaresse sur un plateau de tournage'
         },
         actions: [
             {
-                text: 'Get in Touch',
-                href: '/contact'
+                text: 'Voir mes Projets',
+                href: '/projects'
             }
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Restez informé de mes projets',
+        text: 'Recevez les dernières mises à jour sur mes films et créations directement dans votre boîte mail.',
         formUrl: '#'
     },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    postsPerPage: 6,
+    projectsPerPage: 6
 };
 
 export default siteConfig;

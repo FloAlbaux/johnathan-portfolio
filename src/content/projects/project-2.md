@@ -1,64 +1,53 @@
 ---
-title: 'TimeWarp - Travel Agency Website'
-description: Explore the possibilities of time travel through an immersive website for a fictional travel agency, complete with dynamic destination timelines and interactive historical events.
-publishDate: 'Oct 2 2023'
-isFeatured: true
+title: 'Les Ombres de l’Océan'
+description: A documentary exploring the deep emotional connection between humanity and the vastness of the ocean through personal stories and underwater imagery.
+publishDate: 'Jun 25 2023'
 seo:
   image:
-    src: '/project-2.jpg'
+    src: '/ombres-ocean.jpg'
     alt: Project preview
 ---
 
-![Project preview](/project-2.jpg)
+![Project preview](/ombres-ocean.jpg)
 
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-TimeWarp Travel Agency aims to redefine the travel experience by offering an innovative and immersive online platform that explores the concept of time travel. The website combines cutting-edge technology with captivating storytelling to provide users with a unique journey through time.
-
-> Working with Ethan Donovan was a game-changer for our online presence. Their innovative solutions and attention to detail turned our vision into a reality. The website not only looks fantastic but also functions seamlessly. A true professional who exceeded our expectations!
+"Les Ombres de l’Océan" intertwines mesmerizing underwater cinematography with deeply personal narratives, uncovering how the ocean shapes our lives, memories, and identity.
 
 ## Objectives
 
-1. Create a visually stunning and user-friendly website that captures the essence of time travel.
-2. Integrate interactive elements to engage users and make the experience memorable.
-3. Develop a responsive design to ensure a seamless user experience across various devices.
+1. Highlight environmental issues like coral reef destruction and overfishing.
+2. Create a narrative that connects personal memories with oceanic landscapes.
+3. Inspire collective action toward marine conservation.
 
 ## Features
 
-1. **Dynamic Destination Timelines:**
+1. **Underwater Footage:**
 
-- Users can explore destinations through dynamic timelines, showcasing significant historical events, cultural developments, and architectural milestones.
-- Interactive sliders allow users to navigate through different eras, providing a visual representation of the historical evolution of each location.
+- Filmed using RED Helium 8K cameras for ultra-high-resolution visuals.
+- Dive sites include the Great Barrier Reef and the Mediterranean Sea.
 
-2. **Interactive Historical Events:**
+2. **Human Narratives:**
 
-- Users can click on specific points in the timeline to reveal detailed information about key historical events related to the chosen destination.
-- Rich multimedia content, including images, videos, and articles, provides a comprehensive understanding of each event.
+- Features stories from oceanographers, fishermen, and artists.
+- Interviews juxtaposed with stunning visuals underscore the emotional bond with the sea.
 
-3. **Personalized Time Travel Planner:**
+3. **Educational Outreach:**
 
-- A personalized planner feature enables users to create their time travel itineraries by selecting specific eras and destinations.
-- The system suggests thematic experiences, such as attending historical events or meeting famous personalities.
-
-4. **Time-Port Virtual Reality Experience:**
-
-- For an extra layer of immersion, users can opt for the Time-Port VR experience, allowing them to virtually step into different time periods and explore the surroundings in 360 degrees.
-
-5. **Chronicle Explorer Blog:**
-
-- A blog section, "Chronicle Explorer," offers in-depth articles and stories about various historical periods and their impact on the destinations featured on the platform.
-- Users can engage with the content, comment, and share their own historical insights.
+- Partnered with marine biology organizations for post-screening discussions.
+- Created an educational toolkit for schools.
 
 ## Technology Stack
 
-- **Frontend:** [Astro.js](https://astro.build/) for a dynamic and responsive user interface and [Tailwind CSS](https://tailwindcss.com/) for styling.
-- **Backend:** Node.js for handling server-side logic and API integration.
-- **Database:** MongoDB for efficient storage and retrieval of historical data.
-- **VR Integration:** A-Frame framework for creating immersive virtual reality experiences.
+- Cinematography: RED Helium 8K cameras with underwater housings.
+- Editing: Adobe Premiere Pro and DaVinci Resolve.
+- Sound Mixing: Pro Tools.
 
 ## Outcome
 
-The TimeWarp Travel Agency Website successfully brings the concept of time travel to life, providing users with a captivating and educational experience. The website not only serves as a travel planning tool but also as an interactive platform that encourages users to explore and appreciate the rich tapestry of human history.
+"Les Ombres de l’Océan" won Best Documentary at the Global Eco Film Festival. Its visually stunning portrayal raised awareness about ocean conservation and inspired action among audiences worldwide.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Client Testimonial**
+
+> "A breathtaking exploration of our relationship with the ocean. This documentary left a lasting impact on everyone who watched it." – Festival Jury

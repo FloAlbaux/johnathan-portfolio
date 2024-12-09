@@ -1,43 +1,44 @@
 ---
-title: About
+title: À Propos
 seo:
-  title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  title: À Propos de Moi
+  description: Découvrez l'univers de Jonathan Vacaresse, entre cinéma, création et exploration artistique.
   image:
-    src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    src: '/about.jpg'
+    alt: Une image évoquant le cinéma et la création artistique
 ---
 
-![Alt text for image](/about.jpeg)
+![Une image évoquant le cinéma et la création artistique](/about.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Jonathan Vacaresse - Réalisateur et Artiste Visuel
 
-## Ethan Donovan - Web Developer based in Estonia
+**Bienvenue !** Je suis Jonathan Vacaresse, passionné par l'art de raconter des histoires à travers les images et les sons. Diplômé des Beaux-Arts de Paris-Cergy (ENSAPC) et actuellement étudiant à La CinéFabrique, je me consacre à l'exploration des langages cinématographiques, avec une sensibilité particulière pour l'expérimental, le poétique, et l'onirique.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+## Mon Parcours Artistique
 
-## Skills and Expertise
+Mon voyage dans le monde de l'art a commencé avec les arts visuels, où j'ai développé une approche sensible et colorée, influencée par le symbolisme, l'abstraction, et la représentation du rêve. Depuis, mon intérêt pour le cinéma m'a permis de fusionner ces inspirations avec la narration audiovisuelle.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+- **Formation :**  
+  - DNSEP, Beaux-Arts de Paris-Cergy  
+  - Étudiant en réalisation à La CinéFabrique
 
-## Innovation and Problem-Solving
+- **Expériences :**  
+  Mon premier film, actuellement en cours de montage, reflète mes thèmes de prédilection : la mémoire, l'espace, et le dialogue entre le réel et l'imaginaire.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+## Mes Inspirations
 
-## Global Perspective, Local Impact
+Je puise mon inspiration dans l'intersection des arts plastiques et du cinéma. Mon univers se nourrit de contrastes : la lumière et l'ombre, la couleur et la matière, l'immobilité et le mouvement.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+Quelques mots qui définissent mon travail :  
+**🌙 Coloré, Halluciné, Somnambule**
 
-## Continuous Learning
+## Vision et Collaboration
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+J'ambitionne de créer des récits qui transcendent les frontières de l'art et du cinéma. Mes projets sont des invitations à explorer des mondes intérieurs et à poser un regard neuf sur notre environnement. Je crois en la puissance du collectif et dans la richesse des collaborations artistiques.
 
-## Collaboration and Communication
+## Restons en Contact
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+Vous êtes artiste, producteur, ou simplement curieux de découvrir mon univers ? Je serais ravi d'échanger avec vous.  
+N'hésitez pas à consulter ma page [Contact](#) pour plus d'informations.
 
-## Get in Touch
-
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
-
-_Let's build something amazing together!_
+_Le cinéma est une fenêtre ouverte sur l'imaginaire. Créons ensemble des images qui résonnent !_

@@ -1,14 +1,18 @@
 ---
-title: Get in touch
+title: Contactez-moi
 seo:
   title: Contact
-  description: Get in touch through email or social media! Let me know how I can help.
+  description: Prenez contact via email ou réseaux sociaux ! Discutons de vos projets ou de collaborations possibles.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+Merci pour votre intérêt ! Que vous ayez des questions, une suggestion, ou simplement envie de discuter cinéma et créativité, n'hésitez pas à me contacter. Voici les différentes façons de me joindre :
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+_Email :_  
+Vous pouvez m'écrire à [jonathan.vacaresse@example.com](mailto:jonathan.vacaresse@example.com), et je ferai de mon mieux pour répondre rapidement.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+_Réseaux sociaux :_  
+Retrouvez-moi sur les réseaux sociaux pour suivre mon travail et échanger avec moi :
+- [Instagram](https://instagram.com/JonathanVcrs)
+- [LinkedIn](https://www.linkedin.com/in/jonathanvacaresse)
+
+À très vite !

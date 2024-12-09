@@ -1,61 +1,53 @@
 ---
-title: 'NeuralPlaylist - AI Generated Music Recommendations'
-description: Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
-publishDate: 'Oct 19 2023'
+title: 'Éclats d’Automne'
+description: A poignant narrative about loss and resilience through the lens of a filmmaker capturing the final days of a fading village.
+publishDate: 'Sep 15 2023'
 seo:
   image:
-    src: '/project-4.jpg'
+    src: '/eclats-automne.jpg'
+    alt: Project preview
 ---
 
-![Project preview](/project-4.jpg)
+![Project preview](/eclats-automne.jpg)
 
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-NeuralPlaylist is a cutting-edge web application that redefines music discovery through the power of artificial intelligence. Leveraging advanced algorithms and machine learning, NeuralPlaylist crafts personalized music recommendations based on users' preferences, moods, and even biometric data.
+"Éclats d’Automne" is a heartfelt meditation on time, memory, and change. This deeply personal film follows Jean, a filmmaker returning to his childhood village to document its last inhabitants before it disappears.
 
 ## Objectives
 
-1. Develop an intuitive and user-friendly web application that utilizes AI to curate personalized music playlists for users.
-2. Implement machine learning models that analyze user behavior, preferences, and physiological responses to create dynamic and context-aware music recommendations.
-3. Provide an immersive and interactive platform that enhances the music listening experience and introduces users to new genres and artists.
+1. Explore the intersection of personal memory and collective history.
+2. Employ naturalistic cinematography to capture the beauty of rural life.
+3. Highlight the impact of urbanization on small communities.
 
 ## Features
 
-1. **Biometric Mood Analysis:**
+1. **Natural Lighting:**
 
-- NeuralPlaylist incorporates biometric data analysis to understand users' moods and emotional states.
-- The AI algorithms use facial recognition and heart rate data to curate playlists that match users' current emotional states.
+- Shot entirely with natural light to maintain authenticity.
+- Golden hour scenes highlight the fleeting beauty of the village.
 
-2. **Personalized Playlists:**
+2. **Local Cast:**
 
-- Users receive dynamic and highly personalized playlists based on their music history, preferences, and contextual factors.
-- NeuralPlaylist adapts to users' evolving tastes, introducing them to new genres and artists that align with their musical journey.
+- Non-professional actors bring authenticity to the characters.
+- Their stories inspired several key scenes.
 
-3. **Context-Aware Recommendations:**
+3. **Immersive Sound Design:**
 
-- The application takes into account contextual factors such as time of day, weather, and location to tailor music recommendations.
-- Users receive playlists suited for specific occasions, moods, and environments.
-
-4. **Collaborative Playlists:**
-
-- NeuralPlaylist encourages social interaction by allowing users to create and share collaborative playlists with friends.
-- Friends can contribute to the playlist, creating a shared musical experience that adapts to the collective preferences of the group.
-
-5. **Real-Time Feedback Integration:**
-
-- Users can provide real-time feedback on song selections, allowing the AI to continuously refine recommendations.
-- The system learns from user interactions to enhance the accuracy of future music suggestions.
+- Ambient village sounds create a nostalgic and immersive atmosphere.
+- Seasonal transitions are mirrored through soundscapes.
 
 ## Technology Stack
 
-- Frontend: Vue.js for a dynamic and responsive user interface.
-- Backend: Flask for handling server-side logic and API integration.
-- Database: MongoDB for efficient storage and retrieval of user and music data.
-- AI Integration: PyTorch for developing machine learning models for music recommendation and biometric analysis.
+- Camera: Sony FX6 for versatility in natural lighting.
+- Editing: Adobe Premiere Pro with color grading in DaVinci Resolve.
+- Audio: Zoom H6 for on-location sound capture.
 
 ## Outcome
 
-NeuralPlaylist has redefined the music listening experience by harnessing the power of AI to provide users with hyper-personalized and context-aware playlists. The application not only adapts to users' musical preferences but also introduces them to new and exciting musical journeys based on their emotions and surroundings.
+"Éclats d’Automne" was praised for its emotional depth and won Best Cinematography at the Rural Visions Film Festival.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Client Testimonial**
+
+> "A visually stunning and emotionally resonant film. It beautifully captures the essence of change." – Film Critic
